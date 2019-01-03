@@ -1,6 +1,5 @@
 Oil palm plantation segmentation from high-resolution satellite images using deep learning
 ===
-by Runmin Dong, Weijia Li, Haohuan Fu, Lin Gan, Le Yu, Juepeng Zheng and Maocai Xia 
 
 DATASET
 -
